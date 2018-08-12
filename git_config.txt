@@ -1,0 +1,18 @@
+user.name=enma
+user.email=takanamoo@gmail.com
+core.editor=nvim -c "set fenc=utf-8"
+
+core.precomposeunicode=true
+core.quotepath=false
+color.diff=auto
+color.status=auto
+color.branch=auto
+push.default=simple
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/dcsyhi/Vim_config.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master

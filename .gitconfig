@@ -1,0 +1,13 @@
+[user]
+	name = enma
+	email = takanamoo@gmail.com
+[core]
+	editor = nvim -c \"set fenc=utf-8\"\n
+	precomposeunicode = true
+	quotepath = false
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[push]
+	default = simple
